@@ -1,0 +1,47 @@
+site_name: EEG100 Manifesto Draft
+nav:
+  - Home: index.md
+  - The Manifesto:
+    - intentions.md
+    - Validity: validity.md
+    - Democratization: democratization.md
+    - Responsibility: responsibility.md
+    - conclusion.md
+  - Pledge:
+    - Sign-up: signup.md
+    - Signatories: signatories.md
+  - glossary.md
+  - references.md
+theme:
+  name: material
+  icon:
+    logo: fontawesome/solid/brain
+  palette:
+    primary: blue grey
+    accent: blue
+  font:
+    text: Roboto Flex
+  features:
+  - navigation.sections
+  - navigation.instant
+  custom_dir: overrides
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - def_list
+extra:
+  social:
+    - icon: fontawesome/solid/cake-candles
+      link: https://eeg100.org
+      name: EEG 100
+    - icon: fontawesome/solid/flask 
+      link: https://eegmanylabs.dev
+      name: EEG Many Labs website
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/eegmanylabs
+      name: EEG Many Labs X
+
+extra_css:
+  - stylesheets/extra.css
