@@ -1,6 +1,6 @@
-site_name: EEG100 Manifesto Draft
+site_name: EEG100 Manifesto
 nav:
-  - index.md
+  - Manifesto: index.md
   - signatories.md
   - contributors.md
   - glossary.md
