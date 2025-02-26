@@ -1,17 +1,16 @@
 site_name: EEG100 Manifesto Draft
 nav:
-  - Home: index.md
-  - The Manifesto:
-    - intentions.md
-    - Validity: validity.md
-    - Democratization: democratization.md
-    - Responsibility: responsibility.md
-    - conclusion.md
-  - Pledge:
-    - Sign-up: signup.md
-    - Signatories: signatories.md
+  - index.md
+  - signatories.md
+  - contributors.md
   - glossary.md
   - references.md
+not_in_nav: |
+  intentions.md
+  validity.md
+  democratization.md
+  responsibility.md
+  conclusion.md
 theme:
   name: material
   icon:
@@ -29,19 +28,10 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.snippets
   - attr_list
   - def_list
-extra:
-  social:
-    - icon: fontawesome/solid/cake-candles
-      link: https://eeg100.org
-      name: EEG 100
-    - icon: fontawesome/solid/flask 
-      link: https://eegmanylabs.dev
-      name: EEG Many Labs website
-    - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com/eegmanylabs
-      name: EEG Many Labs X
+
 
 extra_css:
   - stylesheets/extra.css
