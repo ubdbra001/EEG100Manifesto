@@ -27,6 +27,7 @@ theme:
   custom_dir: overrides
 plugins:
   - include-markdown
+  - autorefs
 markdown_extensions:
   - pymdownx.superfences
   - pymdownx.snippets
