@@ -2,16 +2,42 @@
 Toward a deontological framework for EEG science
 {. #subtitle }
 
---8<-- "docs/intentions.md"
+<button onclick="toggleFold(true)">Unfold all</button>
+<button onclick="toggleFold(false)">Fold all</button>
 
---8<-- "docs/validity.md"
+{%
+  include-markdown 'introduction.md'
+%}
 
---8<-- "docs/democratization.md"
 
---8<-- "docs/responsibility.md"
+---
 
---8<-- "docs/conclusion.md"
+/// html | form[id="my-form" action="https://formspree.io/f/xqaqbayo" method="POST"]
+
+{%
+  include-markdown 'validity.md'
+%}
+
+{%
+  include-markdown 'democratization.md'
+%}
+
+{%
+  include-markdown 'responsibility.md'
+%}
+
+{%
+  include-markdown 'conclusion.md'
+%}
 
 ## Sign the Pledge
 
+{% 
+  include 'sign-form.html'
+%}
+
+
+///
+<!--
 <script src="https://widget.proca.app/d/eeg_manifesto/leeds_university" async></script>
+-->

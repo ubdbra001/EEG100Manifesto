@@ -6,7 +6,7 @@ nav:
   - glossary.md
   - references.md
 not_in_nav: |
-  intentions.md
+  introduction.md
   validity.md
   democratization.md
   responsibility.md
@@ -23,15 +23,27 @@ theme:
   features:
   - navigation.sections
   - navigation.instant
+  - navigation.top
   custom_dir: overrides
+plugins:
+  - include-markdown
 markdown_extensions:
-  - admonition
-  - pymdownx.details
   - pymdownx.superfences
   - pymdownx.snippets
+  - pymdownx.blocks.html
+  - pymdownx.blocks.details
+  - pymdownx.blocks.admonition
+  - pymdownx.tasklist:
+      clickable_checkbox: true
   - attr_list
   - def_list
+  - md_in_html
+  - toc:
+      toc_depth: 3
 
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascript/extra_javascript.js
