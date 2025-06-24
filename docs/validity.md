@@ -2,7 +2,7 @@
 
 Increased computational power and technology-assisted data mining allows massively testing data on each and every possible time x electrode x frequency (...) combination. Along with more and more flexible tools allowing to easily redefine statistical tests at the click of the mouse, these practice changes make it a real challenge to maintain valid standards and compromise the soundness and reproducibility of research ([Onciul et al., 2025](references.md#Onciul2025); [Surianarayanan et al., 2023](references.md#Surianarayanan2023)). As human neuroscience increasingly integrates AI and machine learning approaches for data processing and analyses (CITE), we have to be critical about the epistemological assumptions that underlie these technologies. Below, we advocate agreed-upon standard practices using open science tools and resources grounded in theoretically elaborated research.
 
-### Research practices and reproducible science
+### Research practices and reproducible[^1] science
 
 Research practices are fundamental to scientific inquiry, and their proper application ensures reliable, reproducible, and openly extensible science.
 
@@ -296,3 +296,5 @@ I commit to using transparent, interpretable and explainable modeling. I will do
 ///
 
 ///
+
+[^1]: ‘Reproducible’ is used here as an umbrella term, encompassing all aspects of recreating scientific results (aka replicable, generalisable, robust, ..) as described in [Niso, Botvinik-Nezer, et al., 2022](references.md#Niso2022a); [Niso, Krol, et al., 2022b](references.md#Niso2022b)
