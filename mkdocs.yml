@@ -46,6 +46,7 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/form.css
 
 extra_javascript:
   - javascript/extra_javascript.js

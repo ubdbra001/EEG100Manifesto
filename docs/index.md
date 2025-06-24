@@ -38,6 +38,4 @@ Toward a deontological framework for EEG science
 
 
 ///
-<!--
-<script src="https://widget.proca.app/d/eeg_manifesto/leeds_university" async></script>
--->
+
