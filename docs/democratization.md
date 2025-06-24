@@ -35,7 +35,7 @@ I commit to support increasing the diversity of my scientific community. I will 
   /// html | li
   
     <input type='checkbox' checked name="2.1.3" />
-    following the [TRUST](https://www.globalcodeofconduct.org/the-code/) code \- a global code of conduct for equitable research partnerships \- engaging fairly with researchers with fewer resources for research, adapting research methodologies to be culturally appropriate and respectful, ensuring studies are designed with input from the communities involved, avoiding “ethics dumping” [(Schroeder et al., 2021)](references.md#Schroeder2021), providing training and appropriate authorship credit to collaborators.
+    following the [TRUST](https://www.globalcodeofconduct.org/the-code/){:target="_blank"} code \- a global code of conduct for equitable research partnerships \- engaging fairly with researchers with fewer resources for research, adapting research methodologies to be culturally appropriate and respectful, ensuring studies are designed with input from the communities involved, avoiding “ethics dumping” [(Schroeder et al., 2021)](references.md#Schroeder2021), providing training and appropriate authorship credit to collaborators.
   ///
   /// html | li
 
@@ -128,7 +128,7 @@ I commit to support including more diverse populations in study samples. I will 
     
 Ensuring that research outcomes—whether new knowledge or potential applications—remain accessible to both the scientific community and the general public is a core ethical responsibility for public funded research. The rise of the open science movement has substantially advanced this goal, aided by open-source software and hardware, DIY (“do-it-yourself”) materials, open knowledge platforms (e.g., Wikipedia), open data repositories, open-access publications, and a wealth of instructional content on video platforms. Underpinned by legal frameworks (e.g., copyleft) and data use agreements that prevent misappropriation or misuse, these initiatives foster transparency and collaboration within clear regulatory boundaries.
 
-However, meaningful access must also address the **inverse care law**, by which those who most need healthcare—including improved brain health—are often least likely to receive it ([World Health Statistics](https://www.who.int/data/gho/publications/world-health-statistics)). Expanding access to research tools, knowledge, and resources can help reduce inequalities in care, as well as bolster participant diversity (see pledges 2.2) and promote equitable cross-community collaborations (see pledges 2.1). By prioritizing widespread availability, we can ensure that EEG research benefits the broadest spectrum of society, particularly those who stand to gain the most.
+However, meaningful access must also address the **inverse care law**, by which those who most need healthcare—including improved brain health—are often least likely to receive it ([World Health Statistics](https://www.who.int/data/gho/publications/world-health-statistics){:target="_blank"}). Expanding access to research tools, knowledge, and resources can help reduce inequalities in care, as well as bolster participant diversity (see pledges 2.2) and promote equitable cross-community collaborations (see pledges 2.1). By prioritizing widespread availability, we can ensure that EEG research benefits the broadest spectrum of society, particularly those who stand to gain the most.
 
 ///
 

@@ -9,9 +9,9 @@ Research practices are fundamental to scientific inquiry, and their proper appli
 /// details | 1.1. Reproducible EEG science
     type: info
     
-Over the last 15 years, neuroscience has reckoned with how questionable research and publication practices inflate false positive rates and erode trust in scientific findings [(Nosek et al., 2012)](references.md#Nosek2012). Community-driven efforts have highlighted specific challenges and offered some solutions ([Niso, Botvinik-Nezer, et al., 2022](references.md#Niso2022a); [Niso, Krol, et al., 2022](references.md#Niso2022b); [Pernet et al., 2020](references.md#Pernet2020); [Simmons et al., 2012](references.md#Simmons2012)), general  manifestos [(Munafò et al., 2017)](references.md#Munafo2017) and pledges (see [Commitment to Research Transparency](http://www.researchtransparency.org/)). Despite the creation of national and international networks to initiate and support relevant communities (e.g. [UK Reproducibility Network](https://www.ukrn.org/); [ARIADNE](https://igor-biodgps.github.io/ARIADNE/contentpages/intro.html); [the Turing Way](https://book.the-turing-way.org/index.html)) fully reproducible science is far from being the norm in empirical science in general [(Lakens et al., 2024)](references.md#Lakens2024) or EEG research in particular. 
+Over the last 15 years, neuroscience has reckoned with how questionable research and publication practices inflate false positive rates and erode trust in scientific findings [(Nosek et al., 2012)](references.md#Nosek2012). Community-driven efforts have highlighted specific challenges and offered some solutions ([Niso, Botvinik-Nezer, et al., 2022](references.md#Niso2022a); [Niso, Krol, et al., 2022](references.md#Niso2022b); [Pernet et al., 2020](references.md#Pernet2020); [Simmons et al., 2012](references.md#Simmons2012)), general  manifestos [(Munafò et al., 2017)](references.md#Munafo2017) and pledges (see [Commitment to Research Transparency](http://www.researchtransparency.org/)). Despite the creation of national and international networks to initiate and support relevant communities (e.g. [UK Reproducibility Network](https://www.ukrn.org/){:target="_blank"}; [ARIADNE](https://igor-biodgps.github.io/ARIADNE/contentpages/intro.html){:target="_blank"}; [the Turing Way](https://book.the-turing-way.org/index.html){:target="_blank"}) fully reproducible science is far from being the norm in empirical science in general [(Lakens et al., 2024)](references.md#Lakens2024) or EEG research in particular. 
 
-To make progress, the adoption of standardized protocols for data collection, processing, and statistical analysis is essential for ensuring robust, replicable findings in EEG. At the same time, keeping high standards and re-shaping publication practices—supporting non-profit and scientifically sound publishing initiatives (e.g. open access nonprofit platforms like [Peer Community In](https://rr.peercommunityin.org/%20)), while avoiding opaque or predatory outlets—is critical to maintain the overall quality and credibility of EEG science.
+To make progress, the adoption of standardized protocols for data collection, processing, and statistical analysis is essential for ensuring robust, replicable findings in EEG. At the same time, keeping high standards and re-shaping publication practices—supporting non-profit and scientifically sound publishing initiatives (e.g. open access nonprofit platforms like [Peer Community In](https://rr.peercommunityin.org/){:target="_blank"}), while avoiding opaque or predatory outlets—is critical to maintain the overall quality and credibility of EEG science.
 
 ///
 
@@ -20,7 +20,7 @@ To make progress, the adoption of standardized protocols for data collection, pr
     open: True
 
 <input type='checkbox' checked id="cb-1-1" class="cb-sa" onchange="toggleCheckboxes(event)"/>
-I commit to increasing robustness, replication, and standardization at each stage of my EEG work—from data collection to analysis to publishing results and data (see [https://oreoni.github.io/](https://oreoni.github.io/)). In doing so, I will consider:
+I commit to increasing robustness, replication, and standardization at each stage of my EEG work—from data collection to analysis to publishing results and data (see [https://oreoni.github.io/](https://oreoni.github.io/){:target="_blank"}). In doing so, I will consider:
 
 /// html | ul.tasklist
 
@@ -32,7 +32,7 @@ I commit to increasing robustness, replication, and standardization at each stag
   /// html | li
 
     <input type='checkbox' checked name="1.1.2" />
-    clearly and systematically communicating all decisions made during data processing—adhering to guidelines such as [COBIDAS](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3728) and [ARTEM-IS](https://artemis.incf.org/), recognizing that transparent reporting is critical to the integrity and interpretability of EEG research.  
+    clearly and systematically communicating all decisions made during data processing—adhering to guidelines such as [COBIDAS](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3728){:target="_blank"} and [ARTEM-IS](https://artemis.incf.org/){:target="_blank"}, recognizing that transparent reporting is critical to the integrity and interpretability of EEG research.  
   ///
   /// html | li
 
@@ -47,7 +47,7 @@ I commit to increasing robustness, replication, and standardization at each stag
   /// html | li
 
     <input type='checkbox' checked name="1.1.5" />
-    sharing raw data, employing general purpose solutions (e.g. gin.g-node, datalad for datasets) and EEG specific tools and standards (e.g., BIDS-EEG, ARTEM-IS see [Niso, Krol, et al., 2022](references.md#Niso2022b)). See also [1.2 Standardization section]().
+    sharing raw data, employing general purpose solutions (e.g. gin.g-node, datalad for datasets) and EEG specific tools and standards (e.g., BIDS-EEG, ARTEM-IS see [Niso, Krol, et al., 2022](references.md#Niso2022b)). See also Section 1.2: Standardization and Documentation of Data.
   ///
 ///
 
@@ -59,12 +59,12 @@ I commit to improve systemic reproducibility by:
   /// html | li
 
     <input type='checkbox' checked name="1.1.6" />
-    supporting initiatives focused on reproducing results from published articles (e.g. through initiatives like [\#EEGManyLabs](https://osf.io/yb3pq/), [EEGManyPipelines](https://eegmanypipelines.github.io/), [EEGManyAnalysts](https://www.coscience-personality.com/manyanalysts), [TMS-EEG T4TE](https://www.t4te.org/)) either by participating in replication efforts or by supporting and communicating with researchers who are working to replicate my published results.  
+    supporting initiatives focused on reproducing results from published articles (e.g. through initiatives like [\#EEGManyLabs](https://osf.io/yb3pq/){:target="_blank"}, [EEGManyPipelines](https://eegmanypipelines.github.io/){:target="_blank"}, [EEGManyAnalysts](https://www.coscience-personality.com/manyanalysts){:target="_blank"}, [TMS-EEG T4TE](https://www.t4te.org/){:target="_blank"}) either by participating in replication efforts or by supporting and communicating with researchers who are working to replicate my published results.  
   ///
   /// html | li
 
     <input type='checkbox' checked name="1.1.7" />
-    improving the reproducibility and robustness of my own work by testing the effects of different recording setups and analysis pipelines (e.g. through specialist scripts, for example ([Es et al., 2024](references.md#Es2024)) including “multiverse analysis” ([Aczel et al., 2021](references.md#Aczel2021); [Del Giudice & Gangestad, 2021](references.md#DelGiudice2021); [Steegen et al., 2016](references.md#Steegen2016)), see example tools; [boba](https://github.com/uwdata/boba), [multiverse](https://github.com/MUCollective/multiverse), [multifear](https://github.com/AngelosPsy/multifear), [multitool](https://ethan-young.github.io/multitool/), [comet](https://github.com/mibur1/comet), [nipype](https://nipype.readthedocs.io/en/latest/), [shiny app](https://meteor-eeg-oldenburg.shinyapps.io/preprocessing/), Gorgolewski et al., 2011\) and/or by validating findings across multiple recording devices and environments.  
+    improving the reproducibility and robustness of my own work by testing the effects of different recording setups and analysis pipelines (e.g. through specialist scripts, for example ([Es et al., 2024](references.md#Es2024)) including “multiverse analysis” ([Aczel et al., 2021](references.md#Aczel2021); [Del Giudice & Gangestad, 2021](references.md#DelGiudice2021); [Steegen et al., 2016](references.md#Steegen2016)), see example tools; [boba](https://github.com/uwdata/boba), [multiverse](https://github.com/MUCollective/multiverse){:target="_blank"}, [multifear](https://github.com/AngelosPsy/multifear){:target="_blank"}, [multitool](https://ethan-young.github.io/multitool/){:target="_blank"}, [comet](https://github.com/mibur1/comet){:target="_blank"}, [nipype](https://nipype.readthedocs.io/en/latest/){:target="_blank"}, [shiny app](https://meteor-eeg-oldenburg.shinyapps.io/preprocessing/){:target="_blank"}, Gorgolewski et al., 2011\) and/or by validating findings across multiple recording devices and environments.  
   ///
   /// html | li
 
@@ -84,7 +84,7 @@ I commit to improve systemic reproducibility by:
 /// details | 1.2. Standardization and Documentation of Data
     type: info
 
-Generating large, annotated, and openly accessible EEG data repositories, including clinical and neuroimaging data, is crucial for advancing both basic and applied neuroscience. This facilitates discovery science, improves diagnostic applications, industry applications and educational settings, promoting learning and skill development among students and early-career researchers. By pooling resources and sharing data, we enable researchers to perform large-scale analyses that are otherwise impractical for individual laboratories. Standardising datasets, using the Brain Imaging Data Structure ([BIDS](https://bids-specification.readthedocs.io)), is a crucial stage that fosters FAIR science [(Wilkinson et al., 2016)]). To promote transparency, we suggest sharing not only raw data but also analysis scripts and detailed metadata. Platforms such as [OpenNeuro](https://openneuro.org/), [g-node GIN](https://gin.g-node.org/), [OSF](https://osf.io/), or [Zenodo](https://zenodo.org/) can be used to facilitate this process while ensuring adherence to FAIR principles. Such repositories provide diverse datasets that can help uncover new patterns, validate findings across different populations, and improve the generalizability of results. 
+Generating large, annotated, and openly accessible EEG data repositories, including clinical and neuroimaging data, is crucial for advancing both basic and applied neuroscience. This facilitates discovery science, improves diagnostic applications, industry applications and educational settings, promoting learning and skill development among students and early-career researchers. By pooling resources and sharing data, we enable researchers to perform large-scale analyses that are otherwise impractical for individual laboratories. Standardising datasets, using the Brain Imaging Data Structure ([BIDS](https://bids-specification.readthedocs.io){:target="_blank"}), is a crucial stage that fosters FAIR science ([Wilkinson et al., 2016](references.md#Wilkinson2016)). To promote transparency, we suggest sharing not only raw data but also analysis scripts and detailed metadata. Platforms such as [OpenNeuro](https://openneuro.org/){:target="_blank"}, [g-node GIN](https://gin.g-node.org/){:target="_blank"}, [OSF](https://osf.io/){:target="_blank"}, or [Zenodo](https://zenodo.org/){:target="_blank"} can be used to facilitate this process while ensuring adherence to FAIR principles. Such repositories provide diverse datasets that can help uncover new patterns, validate findings across different populations, and improve the generalizability of results. 
 
 Moreover, open data repositories are invaluable for developing and refining diagnostic applications. They provide the necessary volume and variety of data required to train machine learning algorithms and develop robust biomarkers for neurological and psychiatric conditions.
 
