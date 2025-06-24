@@ -157,6 +157,8 @@ If you'd like to see the living reference list for the EEG Manifesto please go t
 
 - [Simons, D. J., Shoda, Y., & Lindsay, D. S. (2017). Constraints on Generality (COG): A Proposed Addition to All Empirical Papers. *Perspectives on Psychological Science*, *12*(6), 1123–1128.](https://doi.org/10.1177/1745691617708630){ #Simons2017 }
 
+- [Souter, N. E., Bhagwat, N., Racey, C., Wilkinson, R., Duncan, N. W., Samuel, G., Lannelongue, L., Selvan, R., & Rae, C. L. (2024). Measuring and reducing the carbon footprint of fMRI preprocessing in fMRIPrep. Human Brain Mapping, 45(12), e70003.](https://doi.org/10.1002/hbm.70003){ #Souter2024 }
+
 - [Steegen, S., Tuerlinckx, F., Gelman, A., & Vanpaemel, W. (2016). Increasing Transparency Through a Multiverse Analysis. *Perspectives on Psychological Science*, *11*(5), 702–712.](https://doi.org/10.1177/1745691616658637){ #Steegen2016 }
 
 - [Surianarayanan, C., Lawrence, J. J., Chelliah, P. R., Prakash, E., & Hewage, C. (2023). Convergence of Artificial Intelligence and Neuroscience towards the Diagnosis of Neurological Disorders-A Scoping Review. *Sensors (Basel, Switzerland)*, *23*(6), 3062\.](https://doi.org/10.3390/s23063062){ #Surianarayanan2023 }

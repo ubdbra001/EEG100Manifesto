@@ -271,7 +271,7 @@ I commit to consider the environmental impact of my lab and my research. I will 
 /// details | 3.5 Measuring and reducing the environmental footprint of our work
     type: info 
 
-While EEG itself generally has a moderate ecological impact, the datasets involved can be very large, and the required storage and computational power used to support EEG sciences continue to expand. Moreover, we need to account for the broader environmental footprint of our professional activities (e.g., conference travel, institutional purchases, and overall infrastructure; see [Souter et al., 2024](https://onlinelibrary.wiley.com/doi/10.1002/hbm.70003), for similar initiative in fMRI).
+While EEG itself generally has a moderate ecological impact, the datasets involved can be very large, and the required storage and computational power used to support EEG sciences continue to expand. Moreover, we need to account for the broader environmental footprint of our professional activities (e.g., conference travel, institutional purchases, and overall infrastructure; see [Souter et al., 2024](references.md#Souter2024), for similar initiative in fMRI).
 
 A key first step is to quantify this impact (see tools examples below). With that knowledge in hand, researchers can identify effective measures to reduce negative outcomes while preserving core scientific aims. However, rebound effects—where well-intentioned actions produce unintended harm—must be carefully monitored to ensure that measures to reduce our carbon footprint do not inadvertently lead to other adverse consequences
 
