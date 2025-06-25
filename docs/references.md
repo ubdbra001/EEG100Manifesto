@@ -57,6 +57,10 @@ If you'd like to see the living reference list for the EEG Manifesto please go t
 
 - [Farwell, L. A. (2012). Brain fingerprinting: A comprehensive tutorial review of detection of concealed information with event-related brain potentials. *Cognitive Neurodynamics*, *6*(2), 115–154.](https://doi.org/10.1007/s11571-012-9192-2){ #Farwell2012 }
 
+- [Forest, D. (2013). Neuroscepticisme. Ithaque.](https://www.ithaque-editions.com/product-page/neuroscepticisme){ #Forest2013 }
+
+- [Forest, D. (2022). Neuropromesses. Ithaque.](https://hal.science/hal-03695472){ #Forest2022 }
+
 - Gerstner, W., Sprekeler, H., & Deco, G. (2012). Theory and Simulation in Neuroscience. *Science*, *338*(6103), 60–65.[](){ #Gerstner2012 }  
 
 - Girolamo, T., Parker, T. C., & Eigsti, I.-M. (2022). Incorporating Dis/ability Studies and Critical Race Theory to combat systematic exclusion of Black, Indigenous, and People of Color in clinical neuroscience. *Frontiers in Neuroscience*, *16*, 988092\.[](){ #Girolamo2022 }
@@ -96,6 +100,8 @@ If you'd like to see the living reference list for the EEG Manifesto please go t
 - [Marini, F., Lee, C., Wagner, J., Makeig, S., & Gola, M. (2019). A comparative evaluation of signal quality between a research-grade and a wireless dry-electrode mobile EEG system. *Journal of Neural Engineering*, *16*(5), 054001\.](https://doi.org/10.1088/1741-2552/ab21f2){ #Marini2019 }
 
 - [Marques, C. T., & Fritzen Gomes, B. M. (2020). Reuse, Reduce, Recycle. In W. Leal Filho, A. M. Azul, L. Brandli, P. G. özuyar, & T. Wall (Eds.), *Responsible Consumption and Production* (pp. 626–634). Springer International Publishing.](https://doi.org/10.1007/978-3-319-95726-5\_67){ #Marques2020 }
+
+- [McCabe, D. P., & Castel, A. D. (2008). Seeing is believing: The effect of brain images on judgments of scientific reasoning. Cognition, 107(1), 343–352.](https://doi.org/10.1016/j.cognition.2007.07.017){ #McCabe2008 }
 
 - [Mecacci, G., & Haselager, P. (2019). Identifying Criteria for the Evaluation of the Implications of Brain Reading for Mental Privacy. *Science and Engineering Ethics*, *25*(2), 443–461.](https://doi.org/10.1007/s11948-017-0003-3){ #Mecacci2019 }
 
@@ -170,6 +176,8 @@ If you'd like to see the living reference list for the EEG Manifesto please go t
 - [Urai, A. E., & Kelly, C. (2023). Rethinking academia in a time of climate crisis. *eLife*, *12*, e84991.](https://doi.org/10.7554/eLife.84991){ #Urai2023 }
 
 - [Webb, E. K., Etter, J. A., & Kwasa, J. A. (2022). Addressing racial and phenotypic bias in human neuroscience methods. *Nature Neuroscience*, *25*(4), 410–414.](https://doi.org/10.1038/s41593-022-01046-0){ #Webb2022 }
+
+- [Weisberg, D. S., Keil, F. C., Goodstein, J., Rawson, E., & Gray, J. R. (2008). The Seductive Allure of Neuroscience Explanations. Journal of Cognitive Neuroscience, 20(3), 470–477.](https://doi.org/10.1162/jocn.2008.20040){ #Weisberg2008 }
 
 - [Westner, B. U., McCloy, D. R., Larson, E., Gramfort, A., Katz, D. S., Smith, A. M., & co-signees,  invited. (2024). *Cycling on the Freeway: The Perilous State of Open Source Neuroscience Software* (arXiv:2403.19394). arXiv.](https://doi.org/10.48550/arXiv.2403.19394){ #Westner2024 }
 
