@@ -107,7 +107,7 @@ I commit to making sure that the data I collect and work with uses best practice
 /// html | li
 
     <input type='checkbox' checked name="1.2.2" />
-    using the FAIR principles for sharing data [(Wilkinson et al., 2016, data should be Findable, Accessible, Interoperable, and Reusable)](references.md#Wilkinson2016).   
+    using the FAIR principles for sharing data ([Wilkinson et al., 2016](references.md#Wilkinson2016), data should be Findable, Accessible, Interoperable, and Reusable).   
 ///
 /// html | li
 
@@ -131,7 +131,7 @@ Using transparent approaches, making sure that results and data are accessible i
 
 Of particular interest to the EEG community, it is important to consider that EEG data requires elaborate software to perform more and more complex analyses. Open-Source (OS) software and hardware have become vital components in advancing EEG research. By supporting and contributing to Free and Open-Source Software (FOSS) and Open-Source Hardware (OSH), we encourage transparency, collaboration, and innovation within the community. Open-Source tools allow researchers to inspect, modify, and improve code and designs, leading to more robust and reliable scientific instruments and analyses. At the same time, OS fosters the development and sharing of cutting-edge methods and makes it easy to attribute developers for their contributions. This collective effort enhances the reproducibility of our work, accelerates scientific progress, and promotes a culture of openness and mutual support in the EEG community. Furthermore, open-source and open-sciences initiatives lower barriers to entry for researchers worldwide, especially those in resource-limited settings. By making software, hardware and knowledge freely available, we democratize access to cutting-edge tools, promoting inclusivity and diversity in EEG science (also see Democratization section below).
 
-At the same time, high standards and best practice in developing and using OS scientific software must be maintained to harvest its full potential [(see Westner et al., 2024)](references.md#Westner2024)
+At the same time, high standards and best practice in developing and using OS scientific software must be maintained to harvest its full potential (see [Westner et al., 2024](references.md#Westner2024))
 
 ///
 
@@ -255,7 +255,7 @@ I commit to balancing theory-driven and data-driven approaches in my research. I
 /// details | 1.5. Transparent, interpretable, and explainable modeling 
     type: info 
 
-A key challenge emerging for complex computational models—particularly those applied to data analysis and clinical decision-making—is ensuring their transparency, interpretability, and explainability. Modern ML/AI architectures often surpass our theoretical grasp [(Holzinger et al., 2022)](references.md#Holzinger2022), creating an epistemic gap where we rely on tools we cannot fully comprehend [(Cichy & Kaiser, 2019)](references.md#Cichy2019). To address this, the EEG community must dedicate basic research and advanced computational tools (see the Local Interpretable Model-Agnostic or LIME approach as one such framework [(Ribeiro et al., 2016)](references.md#Ribeiro2016)) to uncovering how these models operate, while simultaneously leveraging their potential to advance knowledge and applications.
+A key challenge emerging for complex computational models—particularly those applied to data analysis and clinical decision-making—is ensuring their transparency, interpretability, and explainability. Modern ML/AI architectures often surpass our theoretical grasp [(Holzinger et al., 2022)](references.md#Holzinger2022), creating an epistemic gap where we rely on tools we cannot fully comprehend [(Cichy & Kaiser, 2019)](references.md#Cichy2019). To address this, the EEG community must dedicate basic research and advanced computational tools (see the Local Interpretable Model-Agnostic or LIME approach as one such framework [(Ribeiro et al., 2016)](references.md#Ribeiro2016) to uncovering how these models operate, while simultaneously leveraging their potential to advance knowledge and applications.
 
 Fostering interpretability and explainability requires both a solid theoretical foundation and active collaboration across disciplines. The application of cross-validation with independent and diverse datasets will help mitigate overfitting and bias, increasing the likelihood that conclusions drawn from ML/AI models are reliable. We hence advocate for i) **diverse and open datasets** that will make sure AI models will be trained on neurophysiological data acquired from a wide range of population, cognitive states, and environmental contexts; ii) **interpretable AI models** that prioritise explainable AI/ML approaches rather than using black boxes; iii) **integrative validation methods** to acknowledge and incorporate in our models the fact that cognition cannot be meaningfully reduced to algorithmic patterns without considering the broader, complex organism-environment system.
 
