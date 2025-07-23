@@ -24,33 +24,33 @@ I commit to support increasing the diversity of my scientific community. I will 
 
   /// html | li
 
-    <input type='checkbox' checked name="2.1.1" />
+    <input type='checkbox' checked name="pledge_2_1_1" class="data-input" />
     continually learning how to recognize and challenge systemic inequities and proactively addressing social dynamics that may exclude or marginalize colleagues.  
   ///
   /// html | li
     
-    <input type='checkbox' checked name="2.1.2" />
+    <input type='checkbox' checked name="pledge_2_1_2" class="data-input"/>
     cultivating a welcoming and inclusive environment where all team members—irrespective of their professional status, neurodiversity, physical abilities, gender, or ethnicity—feel supported and represented.  
   ///
   /// html | li
   
-    <input type='checkbox' checked name="2.1.3" />
+    <input type='checkbox' checked name="pledge_2_1_3" class="data-input"/>
     following the [TRUST](https://www.globalcodeofconduct.org/the-code/){:target="_blank"} code \- a global code of conduct for equitable research partnerships \- engaging fairly with researchers with fewer resources for research, adapting research methodologies to be culturally appropriate and respectful, ensuring studies are designed with input from the communities involved, avoiding “ethics dumping” [(Schroeder et al., 2021)](references.md#Schroeder2021), providing training and appropriate authorship credit to collaborators.
   ///
   /// html | li
 
-    <input type='checkbox' checked name="2.1.4" />
+    <input type='checkbox' checked name="pledge_2_1_4" class="data-input"/>
     promoting a more democratic global academic sector by advocating for funding and ethics-review criteria and engaging in practices that expand opportunities for underrepresented and underserved groups—including but not limited to those from low- and middle-income countries, rural areas, indigenous communities, and regions affected by conflict.
   ///
   /// html | li
     
-    <input type='checkbox' checked name="2.1.5" />
+    <input type='checkbox' checked name="pledge_2_1_5" class="data-input"/>
     I commit to engaging in practices such as distributed and online conferences that foster accessible academic networking and prevent barriers to participation (visa, time commitment, costs, etc.)
   ///
 
   /// html | li
     
-    <input type='checkbox' checked name="2.1.6" />
+    <input type='checkbox' checked name="pledge_2_1_6" class="data-input"/>
     engaging in practices such as distributed and online conferences that foster accessible academic networking and prevent barriers to participation (visa, time commitment, costs, etc.)
   ///
 ///
@@ -79,42 +79,42 @@ I commit to support including more diverse populations in study samples. I will 
 
   /// html | li
 
-    <input type='checkbox' checked name="2.2.1" />
+    <input type='checkbox' checked name="pledge_2_2_1" class="data-input"/>
     attempting to recruit as diverse samples of experiment participants as possible given the study goals, with special attention to gender and ethnoracial representation  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="2.2.2" />
+    <input type='checkbox' checked name="pledge_2_2_2" class="data-input"/>
     training myself and my team to include everyone, regardless of the hair styles and to never use hair styles or other physical aspects as a direct exclusion criteria.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="2.2.3" />
+    <input type='checkbox' checked name="pledge_2_2_3" class="data-input"/>
     engaging with minority communities actively  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="2.2.4" />
+    <input type='checkbox' checked name="pledge_2_2_4" class="data-input"/>
     paying attention to cultural sensitivities, addressing stigma in brain research[^2], and histories of marginalization  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="2.2.5" />
+    <input type='checkbox' checked name="pledge_2_2_5" class="data-input"/>
     adapting my experimental equipment (EEG head caps…) to account for potential individual differences, obtaining informed consent in ways that are understandable and meaningful to participants, respecting local customs, languages and ethics  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="2.2.6" />
+    <input type='checkbox' checked name="pledge_2_2_6" class="data-input"/>
     including a Constraints of Generalizability (CoG) section to provide a clearer understanding of the findings’ generalizability, which is crucial for interpretation and replication ([Caspar, 2024](references.md/#), [Simons et al., 2017](references.md/#))  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="2.2.7" />
+    <input type='checkbox' checked name="pledge_2_2_7" class="data-input"/>
     exploring and sharing qualitative epistemology to establish barriers and facilitators to taking part in under-represented groups  
   ///
   /// html | li
     
-    <input type='checkbox' checked name="2.2.8" />
+    <input type='checkbox' checked name="pledge_2_2_8" class="data-input"/>
     using or developing templates that ensure consistent reporting of demographic information and keep records of sample diversity across studies to assess progress and identify areas for improvement.
   ///
 
@@ -144,17 +144,17 @@ I commit to promoting a wide use of my research for the scientific community, an
 
   /// html | li
 
-    <input type='checkbox' checked name="2.3.1" />
+    <input type='checkbox' checked name="pledge_2_3_1" class="data-input" />
     using open and transparent approaches (e.g., preprints, preregistration) responsibly, and to withdrawing deposits that do not yield validated findings or conclusive outcomes.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="2.3.2" />
+    <input type='checkbox' checked name="pledge_2_3_2" class="data-input" />
     developing publicly accessible summaries or visuals of my findings to make the results (and their limitations) understandable and beneficial to broader, non-specialist audiences.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="2.3.3" />
+    <input type='checkbox' checked name="pledge_2_3_3" class="data-input" />
     using research results to inform policies and investments that target health inequalities and under-resourced areas, ensuring that EEG applications reach communities where they are needed most.
   ///
 

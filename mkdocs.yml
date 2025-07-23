@@ -49,4 +49,5 @@ extra_css:
   - stylesheets/form.css
 
 extra_javascript:
+  - "https://unpkg.com/@supabase/supabase-js@2"
   - javascript/extra_javascript.js

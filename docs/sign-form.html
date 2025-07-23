@@ -1,13 +1,13 @@
 <div class="form-container">
     <div class="form-row">
         <div class="form-field-wrapper">
-            <input type="text" name="Affil" required class="form-input" id="Affil" />
-            <label for="Affil" class="form-label floating-label">Affiliation*</label>
+            <input type="text" name="affiliation" required class="form-input data-input" id="affiliation" />
+            <label for="affiliation" class="form-label floating-label">Affiliation*</label>
         </div>
     </div>
     <div class="form-row form-row-two-columns">
         <div class="form-field-wrapper">
-            <select name="gender" id="gender" class="form-input">
+            <select name="gender" id="gender" class="form-input data-input">
                 <option value="" selected></option>
                 <option value="Male">Male</option>
                 <option value="Female">Female</option>
@@ -17,7 +17,7 @@
             <label for="gender" class="form-label floating-label">Gender</label>
         </div>
         <div class="form-field-wrapper">
-            <select name="stage" id="stage" class="form-input">
+            <select name="career_stage" id="career_stage" class="form-input data-input">
                 <option value="" disabled selected></option>
                 <option value="Emeritus">Emeritus</option>
                 <option value="FullProf">Full professor</option>
@@ -32,12 +32,12 @@
                 <option value="Other">Other</option>
                 <option value="PreferNotToSay">Prefer not to say</option>
             </select>
-            <label for="stage" class="form-label floating-label">Career Stage</label>
+            <label for="career_stage" class="form-label floating-label">Career Stage</label>
         </div>
     </div>
     <div class="form-row form-row-two-columns form-row-origin-age">
         <div class="form-field-wrapper">
-            <select name="countryOrigin" id="countryOrigin" class="form-input">
+            <select name="country_of_origin" id="country_of_origin" class="form-input data-input">
                 <option value="" selected></option>
                 <option value="AF">Afghanistan</option>
                 <option value="AL">Albania</option>
@@ -291,32 +291,32 @@
                 <option value="XK">Kosovo</option>
                 <option value="ZZ"> Other</option>
             </select>
-            <label for="countryOrigin" class="form-label floating-label">Country of Origin</label>
+            <label for="country_of_origin" class="form-label floating-label">Country of Origin</label>
         </div>
         <div class="form-field-wrapper">
-            <input type="number" name="Age" min="18" max="150" class="form-input" id="Age" />
-            <label for="Age" class="form-label floating-label">Age</label>
+            <input type="number" name="age" min="18" max="150" class="form-input data-input" id="age" />
+            <label for="age" class="form-label floating-label">Age</label>
         </div>
     </div>
     <div class="form-row form-row-two-columns">
         <div class="form-field-wrapper">
-            <input type="text" name="FirstName" required class="form-input" id="FirstName" />
-            <label for="FirstName" class="form-label floating-label">First name(s)*</label>
+            <input type="text" name="first_name" required class="form-input data-input" id="first_name" />
+            <label for="first_name" class="form-label floating-label">First name(s)*</label>
         </div>
         <div class="form-field-wrapper">
-            <input type="text" name="LastName" required class="form-input" id="LastName" />
-            <label for="LastName" class="form-label floating-label">Last name(s)*</label>
+            <input type="text" name="last_name" required class="form-input data-input" id="last_name" />
+            <label for="last_name" class="form-label floating-label">Last name(s)*</label>
         </div>
     </div>
     <div class="form-row form-row-email">
         <div class="form-field-wrapper">
-            <input type="email" name="email" required class="form-input" id="Email" />
+            <input type="email" name="email" required class="form-input data-input" id="Email" />
             <label for="Email" class="form-label floating-label">Email*</label>
         </div>
     </div>
     <div class="form-row form-row-country-residence">
         <div class="form-field-wrapper">
-            <select name="countryResidence" id="countryResidence" required class="form-input">
+            <select name="country_of_residence" id="country_of_residence" required class="form-input data-input">
                 <option value="" selected></option>
                 <option value="AF">Afghanistan</option>
                 <option value="AL">Albania</option>
@@ -570,19 +570,25 @@
                 <option value="XK">Kosovo</option>
                 <option value="ZZ"> Other</option>
             </select>
-            <label for="countryResidence" class="form-label floating-label">Country of Residence*</label>
+            <label for="country_of_residence" class="form-label floating-label">Country of Residence*</label>
         </div>
     </div>
     <div class="form-row">
         <div class="form-field-wrapper">
-            <input type="text" name="orcid" class="form-input" id="orcid" />
+            <input type="text" name="orcid" class="form-input data-input" id="orcid" />
             <label for="orcid" class="form-label floating-label">ORCiD</label>
         </div>
     </div>
     <div class="form-row">
         <div class="form-field-wrapper">
-            <input type="text" name="Comment" class="form-input" id="Comment" />
-            <label for="Comment" class="form-label floating-label">Comment</label>
+            <input type="text" name="comment" class="form-input data-input" id="comment" />
+            <label for="comment" class="form-label floating-label">Comment</label>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="">
+            <input type="checkbox" name="show_name" class="data-input" id="show_name" />
+            <label for="show_name" class="form-label">I'm happy for my name to be displayed publicy</label>
         </div>
     </div>
     <div class="form-row form-row-submit">

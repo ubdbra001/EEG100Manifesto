@@ -26,27 +26,27 @@ I commit to increasing robustness, replication, and standardization at each stag
 
   /// html | li
 
-    <input type='checkbox' checked name="1.1.1" />
+    <input type='checkbox' checked name="pledge_1_1_1" class="data-input" />
     pre-registering my EEG studies, using dedicated platforms (e.g. OSF, Aspredicted, ClinicalTrials) and reporting templates ([Govaart et al., 2022](references.md#Govaart2022); [Paul et al., 2021](references.md#Paul2021)) where appropriate.
   ///
   /// html | li
 
-    <input type='checkbox' checked name="1.1.2" />
+    <input type='checkbox' checked name="pledge_1_1_2" class="data-input" />
     clearly and systematically communicating all decisions made during data processing—adhering to guidelines such as [COBIDAS](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3728){:target="_blank"} and [ARTEM-IS](https://artemis.incf.org/){:target="_blank"}, recognizing that transparent reporting is critical to the integrity and interpretability of EEG research.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="1.1.3" />
+    <input type='checkbox' checked name="pledge_1_1_3" class="data-input" />
     sharing the code and analysis pipelines that can straightforwardly reproduce my original results.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="1.1.4" />
+    <input type='checkbox' checked name="pledge_1_1_4" class="data-input" />
     publicly releasing negative results.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="1.1.5" />
+    <input type='checkbox' checked name="pledge_1_1_5" class="data-input" />
     sharing raw data, employing general purpose solutions (e.g. gin.g-node, datalad for datasets) and EEG specific tools and standards (e.g., BIDS-EEG, ARTEM-IS see [Niso, Krol, et al., 2022](references.md#Niso2022b)). See also Section 1.2: Standardization and Documentation of Data.
   ///
 ///
@@ -58,22 +58,22 @@ I commit to improve systemic reproducibility by:
 
   /// html | li
 
-    <input type='checkbox' checked name="1.1.6" />
+    <input type='checkbox' checked name="pledge_1_1_6" class="data-input" />
     supporting initiatives focused on reproducing results from published articles (e.g. through initiatives like [\#EEGManyLabs](https://osf.io/yb3pq/){:target="_blank"}, [EEGManyPipelines](https://eegmanypipelines.github.io/){:target="_blank"}, [EEGManyAnalysts](https://www.coscience-personality.com/manyanalysts){:target="_blank"}, [TMS-EEG T4TE](https://www.t4te.org/){:target="_blank"}) either by participating in replication efforts or by supporting and communicating with researchers who are working to replicate my published results.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="1.1.7" />
+    <input type='checkbox' checked name="pledge_1_1_7" class="data-input" />
     improving the reproducibility and robustness of my own work by testing the effects of different recording setups and analysis pipelines (e.g. through specialist scripts, for example ([Es et al., 2024](references.md#Es2024)) including “multiverse analysis” ([Aczel et al., 2021](references.md#Aczel2021); [Del Giudice & Gangestad, 2021](references.md#DelGiudice2021); [Steegen et al., 2016](references.md#Steegen2016)), see example tools; [boba](https://github.com/uwdata/boba), [multiverse](https://github.com/MUCollective/multiverse){:target="_blank"}, [multifear](https://github.com/AngelosPsy/multifear){:target="_blank"}, [multitool](https://ethan-young.github.io/multitool/){:target="_blank"}, [comet](https://github.com/mibur1/comet){:target="_blank"}, [nipype](https://nipype.readthedocs.io/en/latest/){:target="_blank"}, [shiny app](https://meteor-eeg-oldenburg.shinyapps.io/preprocessing/){:target="_blank"}, Gorgolewski et al., 2011\) and/or by validating findings across multiple recording devices and environments.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="1.1.8" />
+    <input type='checkbox' checked name="pledge_1_1_8" class="data-input" />
     supporting non-profit, scientifically rigorous publishing initiatives, and to refrain from participating in opaque or predatory publishing practices, whether as an author, reviewer, or editor.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="1.1.9" />
+    <input type='checkbox' checked name="pledge_1_1_9" class="data-input" />
     when acting as a reviewer, requesting that (where appropriate) authors follow standard, robust and replicable research protocols and make any pre-registered hypotheses, datasets and analysis scripts publicly available during the submission process to avoid access issues post-publication 
   ///
 
@@ -101,22 +101,22 @@ I commit to making sure that the data I collect and work with uses best practice
 
 /// html | li
 
-    <input type='checkbox' checked name="1.2.1" />
+    <input type='checkbox' checked name="pledge_1_2_1" class="data-input" />
     sharing curated EEG data as openly as possible (i.e. as institute agreements allow) along with detailed metadata, annotations, and tags, using well-established open repositories.  
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.2.2" />
+    <input type='checkbox' checked name="pledge_1_2_2" class="data-input" />
     using the FAIR principles for sharing data ([Wilkinson et al., 2016](references.md#Wilkinson2016), data should be Findable, Accessible, Interoperable, and Reusable).   
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.2.3" />
+    <input type='checkbox' checked name="pledge_1_2_3" class="data-input" />
     using standards such as the Brain Imaging Data Structure (BIDS) for my data to ensure interoperability and ease of use and sharing it as openly as institute agreements allow/institutional repositories.  
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.2.4" />
+    <input type='checkbox' checked name="pledge_1_2_4" class="data-input" />
     regularly update and enhance my shared data based on user feedback.
 ///
 
@@ -146,47 +146,47 @@ I commit to supporting open scientific practices to support transparency, collab
 
 /// html | li
 
-    <input type='checkbox' checked name="1.3.1" />
+    <input type='checkbox' checked name="pledge_1_3_1" class="data-input" />
     integrating open-source tools, data management practices, and transparent workflows into my research whenever possible.  
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.3.2" />
+    <input type='checkbox' checked name="pledge_1_3_2" class="data-input" />
     citing open-source software properly, including specific version tags or DOIs, to 1\) give full credit to *all* developers’ contributions and 2\) enable full replication of analysis pipelines.  
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.3.3" />
+    <input type='checkbox' checked name="pledge_1_3_3" class="data-input" />
     following best practices in software use—such as version control, clear documentation, and code review—to enhance reliability and reproducibility.  
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.3.4" />
+    <input type='checkbox' checked name="pledge_1_3_4" class="data-input" />
     using open licenses for code and tools that I develop (e.g., BSD, MIT, GPL), creating readable documentation, and publishing my code on accessible platforms (e.g., GitHub, GitLab, OSF).  
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.3.5" />
+    <input type='checkbox' checked name="pledge_1_3_5" class="data-input" />
     contributing back, when I benefit from others’ tools, if I have the skills or resources—whether through bug reports, testing, documentation, tutorials, or feature development.  
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.3.6" />
+    <input type='checkbox' checked name="pledge_1_3_6" class="data-input" />
     recognizing and valuing software development as a genuine scientific contribution; where possible, I will encourage formal acknowledgment of developers’ work (e.g., in publications and grants).  
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.3.7" />
+    <input type='checkbox' checked name="pledge_1_3_7" class="data-input" />
     promoting open-source solutions in my institution, professional networks, and collaborations by highlighting their benefits for transparency, reproducibility, and inclusivity.  
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.3.8" />
+    <input type='checkbox' checked name="pledge_1_3_8" class="data-input" />
     encouraging administrators, funding bodies, and reviewers to recognize and reward open-science practices and open-source development as key indicators of scientific excellence.   
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.3.9" />
+    <input type='checkbox' checked name="pledge_1_3_9" class="data-input" />
     supporting, where relevant, mentor colleagues or trainees in adopting open-source tools and methods, lowering barriers to entry for all researchers—including those in resource-limited settings.
 ///
 
@@ -220,32 +220,32 @@ I commit to balancing theory-driven and data-driven approaches in my research. I
 
 /// html | li
 
-    <input type='checkbox' checked name="1.4.1" />
+    <input type='checkbox' checked name="pledge_1_4_1" class="data-input" />
     engaging in the development of strong preliminary theoretical reflections on the neurophysiological basis of the expected EEG results.  
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.4.2" />
+    <input type='checkbox' checked name="pledge_1_4_2" class="data-input" />
     adapting my experimental practices when performing data-driven experiments. I systematically adapt thresholds for multiple comparison correction, and validate conclusions with sound methodology.  
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.4.3" />
+    <input type='checkbox' checked name="pledge_1_4_3" class="data-input" />
     refraining from using theory-blind approaches to scientific investigation prone to questionable research practices—especially those consuming large computational resources—without a prior theoretical rationale (cf. pledges 3.4 on environmental responsibility).  
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.4.4" />
+    <input type='checkbox' checked name="pledge_1_4_4" class="data-input" />
     reading synthesis texts from other disciplines (e.g., philosophy, anthropology, history, political science). This is a worthwhile investment, helping align my research objectives with societal realities.  
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.4.5" />
+    <input type='checkbox' checked name="pledge_1_4_5" class="data-input" />
     embracing diverse perspectives e.g. integrating insights from the arts and humanities into my research and actively collaborating in interdisciplinary teams and consortia to foster innovation, cross-pollination of ideas, and a deeper theoretical grounding for EEG science.  
 ///
 /// html | li
 
-    <input type='checkbox' checked name="1.4.6" />
+    <input type='checkbox' checked name="pledge_1_4_6" class="data-input" />
     training students to engage with theoretical reflections involving interdisciplinary approaches.
 ///
 ///
@@ -274,22 +274,22 @@ I commit to using transparent, interpretable and explainable modeling. I will do
 
   /// html | li
 
-    <input type='checkbox' checked name="1.5.1" />
+    <input type='checkbox' checked name="pledge_1_5_1" class="data-input" />
     supporting the development of more transparent, explainable, and interoperable computational models and tools (e.g., LIME), including the use of independent databases for cross-validation.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="1.5.2" />
+    <input type='checkbox' checked name="pledge_1_5_2" class="data-input" />
     publicly disclosing ML/AI scripts and documenting all relevant decisions in my model designs—including feature-selection methods, parameter settings, and validation steps—to foster transparency and interpretability in ML/AI-driven neuroscience.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="1.5.3" />
+    <input type='checkbox' checked name="pledge_1_5_3" class="data-input" />
     promoting best practices for AI transparency when training students and early career researchers, reviewing grants and evaluating manuscripts.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="1.5.4" />
+    <input type='checkbox' checked name="pledge_1_5_4" class="data-input" />
     contributing to counteracting the risks of algorithmic reductionism, which mistakenly reduces cognition to an isolated signal that can be decoded. 
   ///
 

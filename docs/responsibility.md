@@ -30,52 +30,52 @@ I commit to carefully consider the ethical implications of my research practice,
 
   /// html | li
 
-    <input type='checkbox' checked name="3.1.1" />
+    <input type='checkbox' checked name="pledge_3_1_1" class="data-input" />
     respecting each individual’s right to self-determination and always prioritize the welfare of participants and (future) users over personal, scientific, or commercial interests.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.1.2" />
+    <input type='checkbox' checked name="pledge_3_1_2" class="data-input" />
     adhering to the CARE framework (Collective Benefit, Authority to Control, Responsibility, Ethics) [(Carroll et al., 2020)](references.md#Carroll2020), integrating these values in all relevant processes and collaborations.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.1.3" />
+    <input type='checkbox' checked name="pledge_3_1_3" class="data-input" />
     conducting thorough ethical evaluations before pursuing sensitive EEG applications (e.g., lie or intention detection), ensuring they are backed by sound scientific evidence and embedded in an up-to-date discussion on ethical, legal, and societal implications.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.1.4" />
+    <input type='checkbox' checked name="pledge_3_1_4" class="data-input" />
     refraining from marketing or deploying neurotechnological products or services unless they are supported by robust, peer-reviewed evidence of safety and efficacy.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.1.5" />
+    <input type='checkbox' checked name="pledge_3_1_5" class="data-input" />
     making responsible and ethical use of generative AI in accordance with UNESCO guidelines, remaining vigilant about potential misuse.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.1.6" />
+    <input type='checkbox' checked name="pledge_3_1_6" class="data-input" />
     educating colleagues and trainees about risks in hardware, software, modeling, and data interpretation, advocating for safe, fair, and sustainable neurotechnology.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.1.7" />
+    <input type='checkbox' checked name="pledge_3_1_7" class="data-input" />
     disclosing and minimizing any conflicts of interest, and will not endorse or profit from EEG products lacking evidence-based grounding.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.1.8" />
+    <input type='checkbox' checked name="pledge_3_1_8" class="data-input" />
     not collecting EEG or neural data without explicit consent, nor pass them on to third parties or merge them with other data sources without proper authorization.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.1.9" />
+    <input type='checkbox' checked name="pledge_3_1_9" class="data-input" />
     not contributing to the development of, or market any, neurotechnology whose main purpose is to circumvent a user’s control over their own information.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.1.10" />
+    <input type='checkbox' checked name="pledge_3_1_10" class="data-input" />
     making no scientific claims without reasonable empirical support, and will acknowledge uncertainty when disseminating EEG findings.
   ///
 
@@ -110,57 +110,57 @@ I commit to critically evaluate new technologies through the lens of their contr
 
   /// html | li
 
-    <input type='checkbox' checked name="3.2.1" />
+    <input type='checkbox' checked name="pledge_3_2_1" class="data-input" />
     explicitly weighing investments in new technology against the development of in-house expertise, fair compensation, and the effective use of the technologies already in place.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.2.2" />
+    <input type='checkbox' checked name="pledge_3_2_2" class="data-input" />
     developing long-term operational and sustainability plans for the technological systems I am responsible for  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.2.3" />
+    <input type='checkbox' checked name="pledge_3_2_3" class="data-input" />
     critically assessing potential benefits of new technologies against costs  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.2.4" />
+    <input type='checkbox' checked name="pledge_3_2_4" class="data-input" />
     considering old methods as an asset that can be exploited, rather than replaced  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.2.5" />
+    <input type='checkbox' checked name="pledge_3_2_5" class="data-input" />
     always looking at papers that did it in the 60s  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.2.6" />
+    <input type='checkbox' checked name="pledge_3_2_6" class="data-input" />
     valuing simplicity over complexity  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.2.7" />
+    <input type='checkbox' checked name="pledge_3_2_7" class="data-input" />
     never applying new tools without validation (and benchmarking)  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.2.8" />
+    <input type='checkbox' checked name="pledge_3_2_8" class="data-input" />
     moderating my use, design and the conclusions obtained with more complex analyses  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.2.9" />
+    <input type='checkbox' checked name="pledge_3_2_9" class="data-input" />
     developing projects that incorporate other disciplinary approaches.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.2.10" />
+    <input type='checkbox' checked name="pledge_3_2_10" class="data-input" />
     supporting the development and adoption of easy-to-repair, modular hardware with replaceable components, alongside open-source tools that adhere to open data and hardware standards, fostering greater accessibility, interoperability, and sustainability.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.2.11" />
+    <input type='checkbox' checked name="pledge_3_2_11" class="data-input" />
     fostering collaboration by sharing high-cost EEG tools, across labs and institutions, reducing waste and increasing efficiency in research.
   ///
 
@@ -189,22 +189,22 @@ I commit to participate in changing research evaluation to avoid focusing on sin
 
   /// html | li
 
-    <input type='checkbox' checked name="3.3.1" />
+    <input type='checkbox' checked name="pledge_3_3_1" class="data-input" />
     promoting evaluation processes that credit a wide range of research contributions—such as datasets, software, outreach activities, and open-access publications—rather than focusing solely on narrow bibliometric indicators.   
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.3.2" />
+    <input type='checkbox' checked name="pledge_3_3_2" class="data-input" />
     encouraging assessment criteria that prioritize open practices (data sharing, preregistration, code release) and value multidisciplinary teamwork    
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.3.3" />
+    <input type='checkbox' checked name="pledge_3_3_3" class="data-input" />
     advocating for and implementing assessment frameworks (e.g., those proposed by CoARA) that emphasize integrity, inclusivity, and social impact alongside scientific excellence. 
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.3.4" />
+    <input type='checkbox' checked name="pledge_3_3_4" class="data-input" />
     continually reviewing and refining evaluation metrics within my sphere of influence—whether as a grant reviewer, hiring committee member, or collaborator—and to pushing for broader acceptance of open, ethical, and diversified research practices.  
   ///
 
@@ -234,32 +234,32 @@ I commit to consider the environmental impact of my lab and my research. I will 
 
   /// html | li
 
-    <input type='checkbox' checked name="3.4.1" />
+    <input type='checkbox' checked name="pledge_3_4_1" class="data-input" />
     advocating for ethical regulations and policies that require serious consideration of environmental impact—especially for high-resource or energy-intensive studies.   
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.4.2" />
+    <input type='checkbox' checked name="pledge_3_4_2" class="data-input" />
     weighing potential short- and long-term environmental costs against any projected benefits when starting or collecting funds for a project.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.4.3" />
+    <input type='checkbox' checked name="pledge_3_4_3" class="data-input" />
     remaining mindful of how academia’s incentive structures can undermine sustainability goals. I will strive to foster discussions, both within my lab and in broader networks, about rethinking these systemic norms.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.4.4" />
+    <input type='checkbox' checked name="pledge_3_4_4" class="data-input" />
     prioritizing or designing research programs that have a clearly defined path toward tangible, long-term societal or environmental benefits rather than short-lived or insular academic gains.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.4.5" />
+    <input type='checkbox' checked name="pledge_3_4_5" class="data-input" />
     not considering EEG or my specific field as inherently exempt from sustainability concerns. My research is part of a larger, resource-intensive system; I acknowledge my role within that system and strive to minimize its negative impacts.  
   ///
   /// html | li
 
-    <input type='checkbox' checked name="3.4.6" />
+    <input type='checkbox' checked name="pledge_3_4_6" class="data-input" />
     cultivating a “climate handshake,” using my position to influence others positively—whether that means introducing sustainable measures in my department, mentoring students on responsible research practices, or partnering with like-minded groups to effect broader change.
   ///
 
@@ -289,32 +289,32 @@ I pledge to minimize the environmental impact of my research through sustainable
 
   /// html | li
 
-   <input type='checkbox' checked name="3.5.1" />
+   <input type='checkbox' checked name="pledge_3_5_1" class="data-input" />
    using responsible data management, such as archiving datasets efficiently to reduce redundancy and prioritizing cloud-based services powered by renewable energy.  
  ///
  /// html | li
 
-   <input type='checkbox' checked name="3.5.2" />
+   <input type='checkbox' checked name="pledge_3_5_2" class="data-input" />
    advocating for virtual conferences, workshops, and meetings to reduce travel-related emissions while promoting hybrid formats for inclusivity and accessibility.  
  ///
  /// html | li
 
-   <input type='checkbox' checked name="3.5.3" />
+   <input type='checkbox' checked name="pledge_3_5_3" class="data-input" />
    reserving air travel for young researchers who need it the most to launch their careers and build their network.  
  ///
  /// html | li
 
-   <input type='checkbox' checked name="3.5.4" />
+   <input type='checkbox' checked name="pledge_3_5_4" class="data-input" />
    using energy-efficient algorithms, optimizing computational methods to reduce runtime and energy consumption, and scheduling resource-intensive analyses during off-peak energy hours where feasible.  
  ///
  /// html | li
 
-   <input type='checkbox' checked name="3.5.5" />
+   <input type='checkbox' checked name="pledge_3_5_5" class="data-input" />
    evaluating the environmental impact of my laboratory and research projects by quantifying emissions, energy usage, and waste production through available tools, and use these evaluations to guide more sustainable practices in daily operations and long-term planning.  
  ///
  /// html | li
 
-   <input type='checkbox' checked name="3.5.6" />
+   <input type='checkbox' checked name="pledge_3_5_6" class="data-input" />
    critically evaluating my own research projects and considering renouncing to run a project if it does not lead to foreseeable future benefits.
  ///
 
@@ -345,27 +345,27 @@ I commit to foster a thoughtful use of resources, equipment and data, by:
 
  /// html | li
 
-   <input type='checkbox' checked name="3.6.1" />
+   <input type='checkbox' checked name="pledge_3_6_1" class="data-input" />
    reviewing existing datasets and reusing previously collected or open data whenever feasible and only collecting new EEG data if it provides novel insights, significantly improves upon current methodologies, or addresses a well-defined research gap—thereby respecting participants’ time, minimizing resource use, and fostering more sustainable, ethical EEG science.  
  ///
  /// html | li
 
-   <input type='checkbox' checked name="3.6.2" />
+   <input type='checkbox' checked name="pledge_3_6_2" class="data-input" />
    contributing to collaborations across labs to share facilities and optimize resource utilization - from headsets to high performance clusters.  
  ///
  /// html | li
 
-   <input type='checkbox' checked name="3.6.3" />
+   <input type='checkbox' checked name="pledge_3_6_3" class="data-input" />
    establishing and participating in equipment-sharing networks or consortia that facilitate access to specialized instruments.  
  ///
  /// html | li
 
-   <input type='checkbox' checked name="3.6.4" />
+   <input type='checkbox' checked name="pledge_3_6_4" class="data-input" />
    advocating for manufacturers to support sustainable practices by providing long-term support, repair services, and recycling programs for their equipment.  
  ///
  /// html | li
 
-   <input type='checkbox' checked name="3.6.5" />
+   <input type='checkbox' checked name="pledge_3_6_5" class="data-input" />
    selecting EEG equipment based on durability and ability to repair, promoting practices that extend the life of equipment, such as regular maintenance, repairs, and upgrades, rather than immediate replacement.
  ///
 

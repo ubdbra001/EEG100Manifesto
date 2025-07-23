@@ -12,7 +12,7 @@ Toward a deontological framework for EEG science
 
 ---
 
-/// html | form[id="my-form" action="https://formspree.io/f/xqaqbayo" method="POST"]
+/// html | form[id="manifesto-form"]
 
 {%
   include-markdown 'validity.md'
@@ -38,4 +38,6 @@ Toward a deontological framework for EEG science
 
 
 ///
+
+/// html | p[id="status-message"]
 
