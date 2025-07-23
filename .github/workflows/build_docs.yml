@@ -1,0 +1,50 @@
+name: Build and Deploy EEG Manifesto site with Dynamic Data
+
+on:
+  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+  schedule:
+    - cron: '0 0 * * *' # Run once every day at midnight UTC (adjust as needed)
+  push:
+    branches:
+      - main # Or your default branch like 'master'
+
+jobs:
+  build_and_deploy:
+    name: python
+    runs-on: ubuntu-latest
+
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }} # Securely passed from GitHub Secrets
+
+    steps:
+      - name: Set current date as env variable
+        run: echo "NOW=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
+
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: "Set up Python"
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: "pyproject.toml"
+
+      - name: Install the project
+        run: uv sync --locked --all-extras --dev
+
+      - name: Generate data file
+        run: uv run python generate_data.py
+        env:
+          GITHUB_RUN_TIMESTAMP: ${{ env.NOW }}
+
+      - name: Build MkDocs site
+        run: uv run mkdocs build 
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
