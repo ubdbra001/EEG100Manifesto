@@ -39,5 +39,4 @@ Toward a deontological framework for EEG science
 
 ///
 
-/// html | p[id="status-message"]
-
+/// html | div[id="snackbar"]
