@@ -34,7 +34,7 @@
     font-size: 16px;
     color: #333;
     box-sizing: border-box;
-    height: 50px; /* Input boxes taller */
+    min-height: 50px; /* Input boxes taller */
     transition: all 0.2s ease-out, border-color 0.2s ease-out, box-shadow 0.2s ease-out;
     outline: none;
     line-height: normal;
@@ -71,7 +71,7 @@
 }
 
 /* Styles for focus glow (no red borders for invalid inputs) */
-.form-input:focus:not(:invalid) {
+.form-input:focus {
     border-color: #007bff;
     background-color: #eaf6ff;
     box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
@@ -158,4 +158,29 @@
 
 .form-submit-button:hover {
     background-color: #0056b3;
+}
+
+.form-submit-button:focus {
+    background-color: #0056b3;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+textarea#comment {
+    field-sizing: content;
+    padding-top: 20px;
+    font-family: var(--md-text-font-family);
+    font-feature-settings: "kern","liga";
+}
+
+input[type="checkbox"]#show_name {
+    width: 20px;
+    vertical-align: text-top;
+}
+
+input[type="checkbox"]#show_name:focus {
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+input[type="submit"]:disabled {
+    background-color: #333;
 }
