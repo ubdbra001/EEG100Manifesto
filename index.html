@@ -50,6 +50,8 @@
     
       <link rel="stylesheet" href="stylesheets/snackbar.css">
     
+      <link rel="stylesheet" href="stylesheets/floating_buttons.css">
+    
     <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -647,14 +649,13 @@
             <div class="md-content" data-md-component="content">
               <article class="md-content__inner md-typeset">
                 
+  
                   
 
 
 
 <h1 class="" id="main-title">EEG100 Manifesto</h1>
 <p class="" id="subtitle">Toward a deontological framework for EEG science</p>
-<p><button onclick="toggleFold(true)">Unfold all</button>
-<button onclick="toggleFold(false)">Fold all</button></p>
 <h2 id="introduction">Introduction</h2>
 <p>This document is a starting point for <strong>building a deontological framework for EEG science</strong> and upgrading our practices accordingly. It aims to outline the standards we believe are essential to collectively maximize the positive impact of EEG research for society. It is a call to action, to encourage critical reflection on the broader consequences of scientific research while sharing emerging alternatives.</p>
 <p>In the following, we highlight what we perceive as the most pressing issues across three domains: (i) <strong>scientific integrity and epistemological rigor</strong>; (ii) <strong>Democratization</strong>; and (iii) <strong>technological and environmental responsibility</strong>.</p>
@@ -1685,7 +1686,16 @@ I commit to foster a thoughtful use of resources, equipment and data, by:</p>
 
 
 
-                
+                 
+
+  
+  <div class="floating-controls">
+    <button onclick="toggleFold(true)">Unfold all</button>
+    <button onclick="toggleFold(false)">Fold all</button>
+    <button onclick="location.href='#sign-the-pledge'">Jump to Sign</button>
+  </div>
+  
+
               </article>
             </div>
           
