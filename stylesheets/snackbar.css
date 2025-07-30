@@ -12,7 +12,7 @@
   position: fixed; /* Sit on top of the screen */
   z-index: 1; /* Add a z-index if needed */
   left: 50%; /* Center the snackbar */
-  bottom: 30px; /* 30px from the bottom */
+  top: 10%; /* 10% from the top */
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
   transition: opacity 0.5s ease-in-out, visibility 0.5s ease-in-out; 
 }
