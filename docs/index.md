@@ -2,8 +2,6 @@
 Toward a deontological framework for EEG science
 {. #subtitle }
 
-<button onclick="toggleFold(true)">Unfold all</button>
-<button onclick="toggleFold(false)">Fold all</button>
 
 {%
   include-markdown 'introduction.md'

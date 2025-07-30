@@ -1,0 +1,13 @@
+{% extends "base.html" %} 
+
+{% block content %}
+  {{ super() }} {# This includes the original content block from the parent theme #}
+
+  {% if page.is_homepage %}
+  <div class="floating-controls">
+    <button onclick="toggleFold(true)">Unfold all</button>
+    <button onclick="toggleFold(false)">Fold all</button>
+    <button onclick="location.href='#sign-the-pledge'">Jump to Sign</button>
+  </div>
+  {% endif %}
+{% endblock %}
