@@ -43,7 +43,8 @@ def generate_markdown_content(submissions):
 
     md_content = dedent(f"""
     # Manifesto Signatories
-    This page is updated daily. Last updated: *{os.environ.get('GITHUB_RUN_TIMESTAMP', 'N/A')} (UTC)*
+    This page is updated daily.  If you've just signed up publicly, your name will appear on the next update.  
+    Last updated: *{os.environ.get('GITHUB_RUN_TIMESTAMP', 'N/A')} (UTC)*
     """)
 
     if not submissions.data:
